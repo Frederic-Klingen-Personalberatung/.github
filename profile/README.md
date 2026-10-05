@@ -12,7 +12,7 @@ here.
 private and local AI. 
 
 **Repositories**
-- [recruiting-skills]([https://github.com/klingen-personalberatung/recruiting-skills](https://github.com/Frederic-Klingen-Personalberatung/Recruiting-Skills-for-AI-Agents)):
+- [recruiting-skills](https://github.com/Frederic-Klingen-Personalberatung/Recruiting-Skills-for-AI-Agents):
   skills that teach AI agents how to research markets and find people
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/headhunterautomotive)
